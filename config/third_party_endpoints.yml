@@ -1,0 +1,4 @@
+endpoints:
+  - http://example.com/webhook6
+  - http://example.net/webhook7
+  - http://example.org/webhook8
