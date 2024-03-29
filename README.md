@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Here are the end point of API :--- POST "http://localhost:3000/data_models"
+                                   PUT  "http://localhost:3000/data_models/:id"
+
